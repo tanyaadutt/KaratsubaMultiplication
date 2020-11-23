@@ -1,2 +1,8 @@
 # KaratsubaMultiplication
-Implementation of Karatsuba algorithm from scratch in C++
+Implementation of Karatsuba algorithm to multiply large numbers from scratch in C++.
+
+
+
+
+
+
